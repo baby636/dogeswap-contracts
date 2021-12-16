@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Dogeswap-Fans/dogeswap-contracts#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/contracts": "^4.4.1",
     "@truffle/hdwallet-provider": "^1.2.2"
   },
   "devDependencies": {
