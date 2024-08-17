@@ -28,7 +28,7 @@
     "commander": "^6.1.0",
     "ethereum-waffle": "^3.0.0",
     "ethereumjs-util": "^7.0.4",
-    "ethers": "^5.0.32",
+    "ethers": "^6.0.0",
     "mocha": "^6.2.2",
     "prettier": "^2.0.5",
     "rimraf": "^3.0.0",
