@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Dogeswap-Fans/dogeswap-contracts#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^3.4.1",
-    "@truffle/hdwallet-provider": "^1.2.2"
+    "@truffle/hdwallet-provider": "^2.1.15"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
@@ -26,9 +26,9 @@
     "axios": "^0.20.0",
     "chai": "^4.2.0",
     "commander": "^6.1.0",
-    "ethereum-waffle": "^3.0.0",
+    "ethereum-waffle": "^4.0.8",
     "ethereumjs-util": "^7.0.4",
-    "ethers": "^5.0.32",
+    "ethers": "^6.0.0",
     "mocha": "^6.2.2",
     "prettier": "^2.0.5",
     "rimraf": "^3.0.0",
